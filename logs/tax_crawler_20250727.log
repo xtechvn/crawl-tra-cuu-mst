@@ -1,0 +1,323 @@
+2025-07-27 01:06:38,391 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: 'module' object is not callable
+2025-07-27 01:35:59,729 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: Không tìm thấy dữ liệu nntJson trong response
+2025-07-27 01:45:05,978 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: 'module' object is not callable
+2025-07-27 01:45:36,839 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff72c2be935+77845]
+	GetHandleVerifier [0x0x7ff72c2be990+77936]
+	(No symbol) [0x0x7ff72c079cda]
+	(No symbol) [0x0x7ff72c065f35]
+	(No symbol) [0x0x7ff72c08aabe]
+	(No symbol) [0x0x7ff72c0ffeb5]
+	(No symbol) [0x0x7ff72c120432]
+	(No symbol) [0x0x7ff72c0f86a3]
+	(No symbol) [0x0x7ff72c0c1791]
+	(No symbol) [0x0x7ff72c0c2523]
+	GetHandleVerifier [0x0x7ff72c59684d+3059501]
+	GetHandleVerifier [0x0x7ff72c590c0d+3035885]
+	GetHandleVerifier [0x0x7ff72c5b0400+3164896]
+	GetHandleVerifier [0x0x7ff72c2d8c3e+185118]
+	GetHandleVerifier [0x0x7ff72c2e054f+216111]
+	GetHandleVerifier [0x0x7ff72c2c72e4+113092]
+	GetHandleVerifier [0x0x7ff72c2c7499+113529]
+	GetHandleVerifier [0x0x7ff72c2ae298+10616]
+	BaseThreadInitThunk [0x0x7ffd730d7374+20]
+	RtlUserThreadStart [0x0x7ffd73a7cc91+33]
+
+2025-07-27 01:46:26,424 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:46:29,389 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:46:32,805 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:46:33,926 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:46:34,405 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:46:41,120 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:46:41,662 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:46:41,844 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:46:42,054 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:12,347 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:13,161 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:13,361 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:13,557 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:13,741 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:13,950 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:14,141 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:14,348 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:14,548 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:14,742 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:14,969 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:15,186 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:15,394 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:15,607 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:15,820 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:16,031 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:16,254 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:16,448 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:16,658 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:16,847 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:17,047 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:17,264 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:17,486 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:17,691 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:17,897 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:18,132 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:18,366 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:18,600 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:18,792 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:23,244 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:24,018 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:24,226 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:24,431 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:24,633 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:25,830 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:27,029 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:45,392 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:52,275 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:54,625 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:55,200 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:55,451 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:55,664 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:55,923 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:56,484 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:56,865 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:57,213 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:57,692 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:47:59,214 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:00,213 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:00,957 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:01,629 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:02,359 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:03,022 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:03,717 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:04,405 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:20,803 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:25,301 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:25,984 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:26,185 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:26,351 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:26,535 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:26,688 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:26,823 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:26,989 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:27,145 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:27,317 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:27,476 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:27,642 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:27,792 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:27,963 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:28,143 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:28,324 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:28,497 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:28,656 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:28,814 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:28,993 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:48:30,253 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:49:29,573 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:50:02,827 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:50:05,801 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:50:08,182 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:50:26,138 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:50:41,254 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:50:42,642 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:50:50,505 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:50:52,504 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:04,789 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:05,830 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:06,015 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:06,193 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:07,004 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:07,274 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:07,505 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:24,887 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:25,721 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:25,907 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:26,076 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:26,258 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:26,437 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:51:28,871 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: [WinError 233] No process is on the other end of the pipe
+2025-07-27 01:54:25,159 - tax_crawler - ERROR - search_company:56 - Error searching for tax code 0109061850: 'module' object is not callable
+2025-07-27 02:08:07,808 - tax_crawler - ERROR - search_company:61 - Error searching for tax code 2401032122: Logger.log() missing 1 required positional argument: 'msg'
+2025-07-27 02:08:16,141 - tax_crawler - ERROR - search_company:61 - Error searching for tax code 2401032122: Logger.log() missing 1 required positional argument: 'msg'
+2025-07-27 02:08:56,992 - tax_crawler - INFO - search_company:50 - Thực hiện crawl thông tin theo mst: 2401032122
+2025-07-27 02:09:12,336 - tax_crawler - ERROR - search_company:61 - Error searching for tax code 2401032122: Logger.log() missing 1 required positional argument: 'msg'
+2025-07-27 02:10:40,248 - tax_crawler - INFO - search_company:50 - Thực hiện crawl thông tin theo mst: 2401032122
+2025-07-27 02:10:55,472 - tax_crawler - ERROR - search_company:61 - Error searching for tax code 2401032122: Logger.log() missing 1 required positional argument: 'msg'
+2025-07-27 02:13:31,732 - tax_crawler - INFO - search_company:50 - Thực hiện crawl thông tin theo mst: 2401032122
+2025-07-27 02:19:25,497 - tax_crawler - INFO - search_company:50 - Thực hiện crawl thông tin theo mst: 2401032073
+2025-07-27 02:25:21,155 - tax_crawler - INFO - search_company:53 - Thực hiện crawl thông tin theo mst: 2401030439
+2025-07-27 02:25:44,249 - tax_crawler - INFO - search_company:53 - Thực hiện crawl thông tin theo mst: 2401030407
+2025-07-27 02:35:11,493 - tax_crawler - INFO - search_company:53 - Thực hiện crawl thông tin theo mst: 2401032098
+2025-07-27 02:35:53,164 - tax_crawler - ERROR - search_company:64 - Error searching for tax code 2401032098: Không thể khởi tạo Chrome WebDriver: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-27 02:38:13,163 - tax_crawler - INFO - search_company:53 - Thực hiện crawl thông tin theo mst: 2401032098
+2025-07-27 02:38:34,854 - tax_crawler - INFO - search_company:53 - Thực hiện crawl thông tin theo mst: 2401032073
+2025-07-27 02:38:50,521 - tax_crawler - INFO - search_company:53 - Thực hiện crawl thông tin theo mst: 2401032122
+2025-07-27 02:39:22,106 - tax_crawler - INFO - search_company:53 - Thực hiện crawl thông tin theo mst: 2301348299
+2025-07-27 03:45:02,407 - tax_crawler - INFO - search_company:72 - Thực hiện crawl thông tin theo mst: 2401032919
+2025-07-27 03:45:39,904 - tax_crawler - INFO - search_company:72 - Thực hiện crawl thông tin theo mst: 2401032919
+2025-07-27 03:48:01,816 - tax_crawler - INFO - search_company:72 - Thực hiện crawl thông tin theo mst: 2401032919
+2025-07-27 03:48:48,461 - tax_crawler - INFO - search_company:81 - Lưu vào cache Redis thành công cho mst: 2401032919
+2025-07-27 03:50:44,267 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2401032919
+2025-07-27 03:52:22,739 - tax_crawler - INFO - search_company:72 - Thực hiện crawl thông tin theo mst: 2401032919
+2025-07-27 03:54:45,306 - tax_crawler - INFO - search_company:72 - Thực hiện crawl thông tin theo mst: 2401032242
+2025-07-27 03:55:01,085 - tax_crawler - INFO - search_company:81 - Lưu vào cache Redis thành công cho mst: 2401032242
+2025-07-27 03:55:23,315 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2401032242
+2025-07-27 03:55:28,188 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2401032242
+2025-07-27 03:55:29,404 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2401032242
+2025-07-27 03:55:29,872 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2401032242
+2025-07-27 03:55:33,860 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2401032242
+2025-07-27 03:55:53,021 - tax_crawler - INFO - search_company:72 - Thực hiện crawl thông tin theo mst: 2401032267
+2025-07-27 03:56:27,669 - tax_crawler - INFO - search_company:81 - Lưu vào cache Redis thành công cho mst: 2401032267
+2025-07-27 03:56:49,002 - tax_crawler - INFO - search_company:72 - Thực hiện crawl thông tin theo mst: 2301348299
+2025-07-27 03:56:56,924 - tax_crawler - INFO - search_company:81 - Lưu vào cache Redis thành công cho mst: 2301348299
+2025-07-27 03:57:31,883 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:02:33,757 - tax_crawler - INFO - search_company:72 - Thực hiện crawl thông tin theo mst: 2301348299
+2025-07-27 04:02:44,673 - tax_crawler - INFO - search_company:81 - Lưu vào cache Redis thành công cho mst: 2301348299
+2025-07-27 04:03:23,062 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:03:24,006 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:03:24,565 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:03:24,723 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:03:24,921 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:03:25,527 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:03:28,480 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:03:29,405 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:03:30,094 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:03:30,658 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:03:31,261 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 2301348299
+2025-07-27 04:07:52,745 - tax_crawler - INFO - search_company:72 - Thực hiện crawl thông tin theo mst: 6101303227
+2025-07-27 04:08:02,735 - tax_crawler - INFO - search_company:81 - Lưu vào cache Redis thành công cho mst: 6101303227
+2025-07-27 04:08:15,939 - tax_crawler - INFO - search_company:72 - Thực hiện crawl thông tin theo mst: 5300836644
+2025-07-27 04:08:22,158 - tax_crawler - INFO - search_company:81 - Lưu vào cache Redis thành công cho mst: 5300836644
+2025-07-27 04:08:26,820 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:10:00,818 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:10:06,492 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:10:08,612 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:10:27,542 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:10:58,132 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:11:00,659 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:11:03,796 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:11:38,904 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:11:43,709 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:12:02,379 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:12:03,595 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:12:04,251 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:12:25,327 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:12:32,179 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:12:32,179 - tax_crawler - ERROR - search_company:96 - Error searching for tax code 5300836644: 'float' object has no attribute 'microseconds'
+2025-07-27 04:12:57,277 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:12:57,277 - tax_crawler - ERROR - search_company:96 - Error searching for tax code 5300836644: 'float' object has no attribute 'microseconds'
+2025-07-27 04:13:05,682 - tax_crawler - INFO - search_company:63 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 04:14:19,351 - tax_crawler - INFO - search_company:71 - Thực hiện crawl thông tin theo mst: 0319035328-001
+2025-07-27 04:14:58,090 - tax_crawler - INFO - search_company:80 - Lưu vào cache Redis thành công cho mst: 0319035328-001
+2025-07-27 04:15:15,552 - tax_crawler - INFO - search_company:71 - Thực hiện crawl thông tin theo mst: 0700900535
+2025-07-27 04:15:56,755 - tax_crawler - INFO - search_company:80 - Lưu vào cache Redis thành công cho mst: 0700900535
+2025-07-27 04:16:31,546 - tax_crawler - INFO - search_company:71 - Thực hiện crawl thông tin theo mst: 2200821705
+2025-07-27 04:18:43,142 - tax_crawler - INFO - search_company:71 - Thực hiện crawl thông tin theo mst: 2200821705
+2025-07-27 04:19:50,226 - tax_crawler - INFO - search_company:71 - Thực hiện crawl thông tin theo mst: 1102110187
+2025-07-27 04:21:16,502 - tax_crawler - INFO - search_company:71 - Thực hiện crawl thông tin theo mst: 4700297843
+2025-07-27 04:21:23,065 - tax_crawler - INFO - search_company:80 - Lưu vào cache Redis thành công cho mst: 4700297843
+2025-07-27 04:21:50,731 - tax_crawler - INFO - search_company:71 - Thực hiện crawl thông tin theo mst: 4700297674
+2025-07-27 04:21:56,632 - tax_crawler - INFO - search_company:80 - Lưu vào cache Redis thành công cho mst: 4700297674
+2025-07-27 04:22:07,743 - tax_crawler - INFO - search_company:71 - Thực hiện crawl thông tin theo mst: 4700298389
+2025-07-27 04:22:13,867 - tax_crawler - INFO - search_company:80 - Lưu vào cache Redis thành công cho mst: 4700298389
+2025-07-27 04:47:45,751 - tax_crawler - INFO - search_company:61 - Trả về dữ liệu từ cache cho mst: 4700298389
+2025-07-27 04:47:47,306 - tax_crawler - INFO - search_company:61 - Trả về dữ liệu từ cache cho mst: 4700298389
+2025-07-27 04:47:48,394 - tax_crawler - INFO - search_company:61 - Trả về dữ liệu từ cache cho mst: 4700298389
+2025-07-27 04:48:14,255 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 1201706975
+2025-07-27 04:50:14,350 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 1201706975
+2025-07-27 04:55:40,725 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 1201706975
+2025-07-27 04:56:54,053 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 1201706975
+2025-07-27 05:00:31,017 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 1201706975
+2025-07-27 05:02:14,545 - tax_crawler - INFO - main:16 - 🚀 Starting Tax Crawl Consumer Worker...
+2025-07-27 05:02:19,420 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 5901218071
+2025-07-27 05:04:15,480 - tax_crawler - INFO - search_company:61 - Trả về dữ liệu từ cache cho mst: 5901218071
+2025-07-27 05:04:17,747 - tax_crawler - INFO - main:16 - 🚀 Starting Tax Crawl Consumer Worker...
+2025-07-27 05:05:47,446 - tax_crawler - INFO - search_company:61 - Trả về dữ liệu từ cache cho mst: 1201706975
+2025-07-27 05:06:05,191 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:06:31,968 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:06:49,266 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:07:29,891 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:07:32,530 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:07:33,470 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:07:34,038 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:07:34,570 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:07:34,932 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:07:35,121 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:07:35,314 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:07:35,508 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:09:32,320 - tax_crawler - INFO - search_company:61 - Trả về dữ liệu từ cache cho mst: 5901218071
+2025-07-27 05:09:32,839 - tax_crawler - INFO - main:16 - 🚀 Starting Tax Crawl Consumer Worker...
+2025-07-27 05:10:04,713 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:10:53,072 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:16:29,124 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:16:51,263 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 5901218071
+2025-07-27 05:17:25,726 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:19:51,859 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:22:35,362 - tax_crawler - INFO - search_company:71 - Gửi task crawl vào queue cho mst: 0202303818
+2025-07-27 05:25:24,790 - tax_crawler - INFO - main:16 - 🚀 Starting Tax Crawl Consumer Worker...
+2025-07-27 05:29:08,789 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0202303818
+2025-07-27 05:29:45,323 - tax_crawler - ERROR - search_company_noqueue:88 - Error searching for tax code 0202303818 (noqueue): 'Config' object has no attribute 'CACHE_EXPIRE_SECONDS'
+2025-07-27 06:40:22,071 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0202303818
+2025-07-27 06:40:46,524 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0202303818
+2025-07-27 06:40:59,075 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0202303818
+2025-07-27 06:41:16,988 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0202303818
+2025-07-27 06:42:18,914 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0202303818
+2025-07-27 06:42:49,339 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0202303818
+2025-07-27 06:43:06,373 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0202303818
+2025-07-27 06:43:31,388 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0202303825
+2025-07-27 06:44:01,772 - tax_crawler - INFO - search_company_noqueue:62 - Trả về dữ liệu từ cache cho mst: 2401032242
+2025-07-27 06:44:11,291 - tax_crawler - INFO - search_company_noqueue:62 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 06:44:29,375 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 5300836644
+2025-07-27 06:44:45,489 - tax_crawler - ERROR - search_company_noqueue:90 - Error searching for tax code 5300836644 (noqueue): 'Config' object has no attribute 'CACHE_EXPIRE_SECONDS'
+2025-07-27 06:46:34,469 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 5300836644
+2025-07-27 06:46:44,325 - tax_crawler - ERROR - search_company_noqueue:90 - Error searching for tax code 5300836644 (noqueue): 'Config' object has no attribute 'CACHE_EXPIRE_SECONDS'
+2025-07-27 06:47:12,668 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 5300836644
+2025-07-27 06:47:24,481 - tax_crawler - ERROR - search_company_noqueue:90 - Error searching for tax code 5300836644 (noqueue): 'Config' object has no attribute 'CACHE_EXPIRE_SECONDS'
+2025-07-27 06:47:42,322 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 5300836644
+2025-07-27 06:47:54,150 - tax_crawler - ERROR - search_company_noqueue:90 - Error searching for tax code 5300836644 (noqueue): 'Config' object has no attribute 'CACHE_EXPIRE_SECONDS'
+2025-07-27 06:50:16,070 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 5300836644
+2025-07-27 06:50:34,905 - tax_crawler - INFO - search_company_noqueue:62 - Trả về dữ liệu từ cache cho mst: 5300836644
+2025-07-27 06:50:57,979 - tax_crawler - INFO - search_company_noqueue:72 - Không có cache, bắt đầu crawl trực tiếp cho mst: 3901366189
+2025-07-27 06:51:13,004 - tax_crawler - INFO - search_company_noqueue:62 - Trả về dữ liệu từ cache cho mst: 3901366189
+2025-07-27 07:03:32,627 - tax_crawler - INFO - search_company_noqueue:62 - Trả về dữ liệu từ cache cho mst: 3901366189
+2025-07-27 07:03:32,628 - tax_crawler - ERROR - search_company_noqueue:89 - Error searching for tax code 3901366189 (noqueue): local variable 'data' referenced before assignment
+2025-07-27 07:05:28,948 - tax_crawler - INFO - search_company_noqueue:63 - Trả về dữ liệu từ cache cho mst: 3901366189
+2025-07-27 07:05:33,141 - tax_crawler - INFO - search_company_noqueue:63 - Trả về dữ liệu từ cache cho mst: 3901366189
+2025-07-27 07:05:36,128 - tax_crawler - INFO - search_company_noqueue:63 - Trả về dữ liệu từ cache cho mst: 3901366189
+2025-07-27 07:06:22,394 - tax_crawler - INFO - search_company_noqueue:70 - Không có cache, bắt đầu crawl trực tiếp cho mst: 39013661891
+2025-07-27 07:06:31,200 - tax_crawler - ERROR - search_company_noqueue:91 - Error searching for tax code 39013661891 (noqueue): local variable 'is_set_cache' referenced before assignment
+2025-07-27 07:07:43,702 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 39013661891
+2025-07-27 07:08:12,120 - tax_crawler - INFO - search_company_noqueue:64 - Trả về dữ liệu từ cache cho mst: 3901366189
+2025-07-27 07:08:22,942 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 3502554670
+2025-07-27 07:08:47,246 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 1102109368
+2025-07-27 07:09:13,445 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 3901366485
+2025-07-27 07:09:49,316 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 1102110099
+2025-07-27 07:10:14,708 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 1102109424
+2025-07-27 07:11:37,691 - tax_crawler - INFO - search_company_noqueue:64 - Trả về dữ liệu từ cache cho mst: 1102109424
+2025-07-27 07:11:48,513 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 1102110116
+2025-07-27 07:13:21,519 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 1102110116
+2025-07-27 07:14:13,025 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 1102110116
+2025-07-27 07:14:53,870 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 3901366277
+2025-07-27 07:18:10,098 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 3901366319
+2025-07-27 07:18:36,198 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 3502554462
+2025-07-27 07:20:48,265 - tax_crawler - INFO - search_company_noqueue:64 - Trả về dữ liệu từ cache cho mst: 3502554462
+2025-07-27 07:20:51,369 - tax_crawler - INFO - search_company_noqueue:64 - Trả về dữ liệu từ cache cho mst: 3502554462
+2025-07-27 07:20:58,507 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 1102109350
+2025-07-27 07:21:19,562 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0319055099
+2025-07-27 07:21:46,059 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0319055187
+2025-07-27 07:22:10,010 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 1102109375
+2025-07-27 07:22:31,139 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0319055109
+2025-07-27 07:23:17,142 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0111154220
+2025-07-27 07:23:40,915 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0111154245
+2025-07-27 07:24:01,966 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 3901366284
+2025-07-27 07:25:30,303 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0109061850
+2025-07-27 07:53:15,206 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 5500654899
+2025-07-27 10:51:12,899 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0316062161
+2025-07-27 10:56:26,065 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0316062161
+2025-07-27 10:57:43,243 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0316062161
+2025-07-27 10:58:02,221 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0316062161
+2025-07-27 10:58:20,213 - tax_crawler - INFO - search_company_noqueue:64 - Trả về dữ liệu từ cache cho mst: 0316062161
+2025-07-27 10:58:21,755 - tax_crawler - INFO - search_company_noqueue:64 - Trả về dữ liệu từ cache cho mst: 0316062161
+2025-07-27 10:58:31,803 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 5500654899
+2025-07-27 10:58:43,005 - tax_crawler - INFO - search_company_noqueue:71 - Không có cache, bắt đầu crawl trực tiếp cho mst: 0109061850
+2025-07-27 10:59:18,195 - tax_crawler - INFO - search_company_noqueue:64 - Trả về dữ liệu từ cache cho mst: 0109061850
+2025-07-27 10:59:18,211 - tax_crawler - INFO - search_company_noqueue:64 - Trả về dữ liệu từ cache cho mst: 5500654899
